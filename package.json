@@ -1,6 +1,6 @@
 {
   "name": "author-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A webpack plugin to add author info to your bundles",
   "main": "index.js",
   "directories": {
